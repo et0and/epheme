@@ -1,6 +1,6 @@
 # Ephemera
 
-This is a Turbo monorepo for a WIP website housing an ephemera collection by [Sam Baldwin](https://sambaldwin.info), built by [Piper Haywood](https://piperhaywood.com). Public URL coming soon.
+This is a Turbo monorepo for test site, originally built by [Piper Haywood](https://piperhaywood.com).
 
 Currently, Turbo is pinned to v1.10.4 because of [this issue](https://github.com/vercel/turbo/issues/5331). Runs on node v18.6.0, see `.nvmrc`.
 
